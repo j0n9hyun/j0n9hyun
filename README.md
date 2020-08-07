@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hello 👋
 
-
-
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working on number of side projects.
 - 🌱 I’m currently learning Web Full-stack, Design etc
