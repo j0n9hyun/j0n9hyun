@@ -14,14 +14,12 @@
 <div align=center>
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://j0n9hyun.xyz/)](https://j0n9hyun.xyz/)
+[![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://j0n9hyun.xyz/)](https://j0n9hyun.xyz/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j0n9yhun@mail.com)](mailto:j0n9hyun@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.fb.com/j0n9hyun)](https://www.fb.com/j0n9hyun)
 
 [![j0n9hyun's github stats](https://github-readme-stats.vercel.app/api?username=j0n9hyun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-http://img.shields.io/badge/-React-0088cc?style=flat&logo=React
 
 ![](http://img.shields.io/badge/-React.js-0088cc?style=flat&logo=React)
 ![](http://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodemon)
