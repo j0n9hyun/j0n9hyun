@@ -25,6 +25,7 @@
 ![](http://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodemon)
 ![](http://img.shields.io/badge/-JavaScript-654FF0?style=00874d&logo=javascript)
 ![](http://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript)
+![](http://img.shields.io/badge/Python-FFA500?style=flat&logo=python)
 ![](http://img.shields.io/badge/-Docker-6A5FBB?style=00874d&logo=docker)
 ![](http://img.shields.io/badge/CTF-1A1A1A?style=flat&logo=hackaday)
 
