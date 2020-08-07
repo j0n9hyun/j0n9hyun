@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Web Full-stack, Design etc
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![j0n9hyun's github stats](https://github-readme-stats.vercel.app/api?username=j0n9hyun)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
