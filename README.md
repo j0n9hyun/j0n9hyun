@@ -20,7 +20,19 @@
 
 [![j0n9hyun's github stats](https://github-readme-stats.vercel.app/api?username=j0n9hyun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+http://img.shields.io/badge/-React-0088cc?style=flat&logo=React
+
+![](http://img.shields.io/badge/-React.js-0088cc?style=flat&logo=React)
+![](http://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodemon)
+![](http://img.shields.io/badge/-JavaScript-654FF0?style=00874d&logo=javascript)
+![](http://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript)
+![](http://img.shields.io/badge/-Docker-6A5FBB?style=00874d&logo=docker)
+
 </div>
+
+
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
