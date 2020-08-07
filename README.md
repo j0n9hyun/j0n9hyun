@@ -4,7 +4,7 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)]                          
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)                   
 
 </div>
 
@@ -14,11 +14,11 @@
 <div align=center>
 
 
-[![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://j0n9hyun.xyz/)](https://j0n9hyun.xyz/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j0n9yhun@mail.com)](mailto:j0n9hyun@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.fb.com/j0n9hyun)](https://www.fb.com/j0n9hyun)
+[![Blog](http://img.shields.io/badge/-Blog-black?style=flat&logo=github&link=https://j0n9hyun.xyz/)](https://j0n9hyun.xyz/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0n9yhun@mail.com)](mailto:j0n9hyun@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.fb.com/j0n9hyun)](https://www.fb.com/j0n9hyun)
 
-[![Status](https://github-readme-stats.vercel.app/api?username=j0n9hyun&show_icons=true&theme=tokyonight)]
+![Status](https://github-readme-stats.vercel.app/api?username=j0n9hyun&show_icons=true&theme=tokyonight)
 
 
 ![](http://img.shields.io/badge/-React.js-0088cc?style=flat&logo=React)
