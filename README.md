@@ -21,7 +21,7 @@
 ### Stacks
 
 
-[![](http://img.shields.io/badge/-React.js-0088cc?style=flat&logo=React)](https://ko.reactjs.org/){:target="_blank"}
+[![](http://img.shields.io/badge/-React.js-0088cc?style=flat&logo=React)](https://ko.reactjs.org/)
 [![](http://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodemon)](https://nodejs.org/ko/)
 [![](http://img.shields.io/badge/-JavaScript-654FF0?style=00874d&logo=javascript)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![](http://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript)](https://www.typescriptlang.org/)
