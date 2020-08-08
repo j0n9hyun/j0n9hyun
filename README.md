@@ -18,7 +18,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0n9yhun@mail.com)](mailto:j0n9hyun@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.fb.com/j0n9hyun)](https://www.fb.com/j0n9hyun)
 
-![Status](https://github-readme-stats.vercel.app/api?username=j0n9hyun&show_icons=true&theme=tokyonight)
+### Stacks
 
 
 [![](http://img.shields.io/badge/-React.js-0088cc?style=flat&logo=React)](https://ko.reactjs.org/)
