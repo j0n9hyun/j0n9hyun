@@ -1,5 +1,3 @@
-### Hello 👋
-
 ---
 
 <div align=center>
