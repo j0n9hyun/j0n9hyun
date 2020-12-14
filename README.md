@@ -6,9 +6,6 @@
 
 </div>
 
-- 🎨 I’m currently working on a number of side projects.
-- 🌱 I’m currently learning Web Full-stack, Design etc
-
 <div align=center>
 
 
