@@ -9,7 +9,7 @@
 <div align=center>
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=j0n9hyun&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=#9b59b6&height=100&section=header&text=j0n9hyun&fontSize=50&animation=twinkling&fontColor=2c3e50)
 
 
 [![Blog](http://img.shields.io/badge/-Blog-black?style=flat&logo=github&link=https://j0n9hyun.xyz/)](https://j0n9hyun.xyz/)
