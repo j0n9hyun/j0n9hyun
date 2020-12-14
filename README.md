@@ -9,7 +9,7 @@
 <div align=center>
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=j0n9hyun&fontColor=30336b&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&text=j0n9hyun&fontColor=30336b&animation=twinkling&height=300)
 
 
 [![Blog](http://img.shields.io/badge/-Blog-black?style=flat&logo=github&link=https://j0n9hyun.xyz/)](https://j0n9hyun.xyz/)
@@ -29,7 +29,7 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=ff9ff3&rotate=270&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=ff9ff3&rotate=270&section=footer&height=300)
 
 
 
