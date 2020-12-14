@@ -9,6 +9,8 @@
 <div align=center>
 
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=j0n9hyun&fontSize=50&animation=twinkling&fontColor=#2c3e50)
+
 [![Blog](http://img.shields.io/badge/-Blog-black?style=flat&logo=github&link=https://j0n9hyun.xyz/)](https://j0n9hyun.xyz/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0n9yhun@mail.com)](mailto:j0n9hyun@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.fb.com/j0n9hyun)](https://www.fb.com/j0n9hyun)
