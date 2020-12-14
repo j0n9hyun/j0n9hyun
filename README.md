@@ -9,7 +9,7 @@
 <div align=center>
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=#B897FF&height=200&section=header&text=j0n9hyun&fontSize=50&animation=twinkling&fontColor=#2c3e50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=j0n9hyun&fontColor=#2c3e50&fontSize=50&animation=twinkling)
 
 [![Blog](http://img.shields.io/badge/-Blog-black?style=flat&logo=github&link=https://j0n9hyun.xyz/)](https://j0n9hyun.xyz/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0n9yhun@mail.com)](mailto:j0n9hyun@gmail.com)
