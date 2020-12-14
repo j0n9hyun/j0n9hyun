@@ -29,7 +29,7 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=#fd79a8&rotate=270&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=ff9ff3&rotate=270&section=footer)
 
 
 
