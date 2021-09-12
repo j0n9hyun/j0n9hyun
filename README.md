@@ -17,8 +17,7 @@
 [![](http://img.shields.io/badge/-Docker-6A5FBB?style=00874d&logo=docker)](https://www.docker.com/)
 [![](http://img.shields.io/badge/CTF-1A1A1A?style=flat&logo=hackaday)](https://ctf.j0n9hyun.xyz/)  
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j0n9hyun)](https://solved.ac/j0n9hyun/)  
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j0n9hyun)](https://solved.ac/j0n9hyun/)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=ff9ff3&rotate=270&section=footer&height=200)
